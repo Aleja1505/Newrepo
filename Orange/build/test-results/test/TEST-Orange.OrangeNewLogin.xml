@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Orange.OrangeNewLogin" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-12T02:31:07" hostname="SSMEDLAPPROME2" time="25.075">
+  <properties/>
+  <testcase name="test" classname="Orange.OrangeNewLogin" time="25.075"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 30209
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1605148270.632][WARNING]: Timed out connecting to Chrome, retrying...
+nov 11, 2020 9:31:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[1605148273.651][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148273.752][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148273.853][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148273.954][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.055][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.156][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.258][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.359][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.508][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.623][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.723][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.825][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148274.927][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.029][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.130][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.231][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.332][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.433][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.534][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148275.635][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148277.815][WARNING]: Timed out connecting to Chrome, retrying...
+[1605148281.493][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148281.594][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148281.848][SEVERE]: Timed out receiving message from renderer: 0.100
+[1605148283.900][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
